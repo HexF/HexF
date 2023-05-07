@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1185" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1132" class="">
     <defs>
         <style/>
     </defs>
@@ -2555,19 +2555,8 @@
                 </h2>
                 <div class="fill-width">
                     <section class="sponsors goal">
-                        <div class="markdown">Reaching this goal allows me to host all the tools I provide for free for many years to come</div>
-                        <div class="center horizontal-wrap ">
-                            <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="440" height="8">
-                                <mask id="project-bar">
-                                    <rect x="0" y="0" width="440" height="8" fill="white" rx="5"/>
-                                </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="88" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="88" y="0" width="352" height="8" fill="#d1d5da"/>
-                            </svg>
-                        </div>
                         <div class="goal-text">
                             <span>1 sponsor is funding HexF's work</span>
-                            <span>$25 per month</span>
                         </div>
                     </section>
                 </div>
