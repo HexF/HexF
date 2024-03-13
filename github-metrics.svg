@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 12 repositories
+                            Contributed to 14 repositories
                         </div>
                     </section>
                 </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2152 Commits
+                            2153 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            1 Pull request opened
+                            2 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,14 +166,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.4969372391841" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="176.4969372391841" y="0" width="94.1183648775927" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="270.6153021167768" y="0" width="78.99870752181057" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.61400963858733" y="0" width="32.451446131846524" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.06545577043386" y="0" width="24.070962552506927" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="406.1364183229408" y="0" width="21.440597564916093" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="427.5770158878569" y="0" width="20.69821321765195" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.27522910550886" y="0" width="11.724770894491156" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.40325215542046" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.40325215542046" y="0" width="94.31257590567168" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="270.71582806109217" y="0" width="78.95677477981988" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="349.672602840912" y="0" width="32.43422081056521" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.10682365147716" y="0" width="24.05818561610068" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="406.1650092675779" y="0" width="21.429216833838083" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="427.5942261014159" y="0" width="20.68722654632844" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.2814526477444" y="0" width="11.71854735225557" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2325,7 +2325,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="180.83333333333334 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="186 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2351,10 +2351,10 @@
                                     <span class="prefix">Master</span>
                                     forker
                                     <div class="value-wrapper">
-                                        <div class="value">55</div>
+                                        <div class="value">56</div>
                                     </div>
                                 </div>
-                                <div class="text">Forked 55 public repositories</div>
+                                <div class="text">Forked 56 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2402,7 +2402,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="15.5 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.533333333333335 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2427,12 +2427,12 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 137k out of 132m users</span>
+                                    <span class="gh">ranked 135k out of 132m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">115</div>
+                                        <div class="value">116</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 115 public repositories</div>
+                                <div class="text">Published 116 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -2507,7 +2507,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 27.4k out of 113m repositories</span>
+                                    <span class="gh">ranked 27.4k out of 104m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1706</div>
                                     </div>
