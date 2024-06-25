@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2799 Commits
+                            2800 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,14 +166,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.2718363941906" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="176.2718363941906" y="0" width="94.58500337297943" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="270.85683976717" y="0" width="78.89795406911776" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.7547938362878" y="0" width="32.41005817316688" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.1648520094547" y="0" width="24.040262903577418" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="406.2051149130321" y="0" width="21.413252633584577" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="427.6183675466167" y="0" width="20.67181510923132" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.29018265584796" y="0" width="11.709817344152043" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.27213897042418" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.27213897042418" y="0" width="94.58437612647407" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="270.85651509689825" y="0" width="78.89808949997425" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="349.75460459687247" y="0" width="32.41011380606623" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.1647184029387" y="0" width="24.040304169456032" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="406.20502257239474" y="0" width="21.413289390116212" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="427.618311962511" y="0" width="20.67185059306178" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.29016255557275" y="0" width="11.709837444427277" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2422,7 +2422,7 @@
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 137k out of 137m users</span>
+                                    <span class="gh">ranked 137k out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">118</div>
                                     </div>
@@ -2502,7 +2502,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26.8k out of 210m repositories</span>
+                                    <span class="gh">ranked 26.8k out of 205m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1812</div>
                                     </div>
