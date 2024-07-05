@@ -36,11 +36,11 @@
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
@@ -82,13 +82,13 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2183 Commits
+                            2186 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            22 Pull requests reviewed
+                            23 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -166,14 +166,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.27213897042418" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="176.27213897042418" y="0" width="94.58437612647407" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="270.85651509689825" y="0" width="78.89808949997425" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="349.75460459687247" y="0" width="32.41011380606623" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="382.1647184029387" y="0" width="24.040304169456032" height="8" fill="#A97BFF"/>
-                    <rect mask="url(#languages-bar)" x="406.20502257239474" y="0" width="21.413289390116212" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="427.618311962511" y="0" width="20.67185059306178" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.29016255557275" y="0" width="11.709837444427277" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.08806215587325" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.08806215587325" y="0" width="94.96597099689804" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="271.0540331527713" y="0" width="78.81569809612486" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="349.86973124889613" y="0" width="32.376268692802725" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="382.24599994169887" y="0" width="24.015199449911606" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="406.2611993916105" y="0" width="21.390927999807946" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="427.65212739141845" y="0" width="20.65026346970656" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.302390861125" y="0" width="11.697609138875029" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2523,7 +2523,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 26.8k out of 213m repositories</span>
+                                    <span class="gh">ranked 26.8k out of 210m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1819</div>
                                     </div>
